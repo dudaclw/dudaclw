@@ -1,4 +1,4 @@
-## Bem-vindo(a)!
+## Olá!
 
  <div>
    <a href="https://github.com/dudaclw">
@@ -15,7 +15,7 @@
  
 <br>
  
-### Entre em contato comigo:
+### Entre em contato:
  
 <div> 
 
