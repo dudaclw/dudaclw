@@ -1,23 +1,5 @@
 ## Hi, I'm dudaclw!
-
- <div>
-   <a href="https://github.com/dudaclw">
-   <div>
-     <a href="https://github.com/seu-usuário-aqui">
-     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaclw&layout=compact&langs_count=7&theme=dracula"/>
-     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dudaclw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-</div>
-
- ## Tecnologias:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt=""Java height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
- 
-</div>
-<br>
+### Construção
  
 ### Vamos nos conectar:
  
