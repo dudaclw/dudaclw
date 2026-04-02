@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Duda
+# Olá!
 
 ![Profile](https://img.shields.io/badge/Perfil-Profissional-blue)
 ![Foco](https://img.shields.io/badge/Foco-Gestão%20de%20Projetos-purple)
